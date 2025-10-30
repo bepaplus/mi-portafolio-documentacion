@@ -5,7 +5,7 @@
 ### Habilidades:
 - 📝 18+ años en documentación de sistemas críticos
 - 🤖 Documentación asistida por IA
-- 🌐 Traducción técnico inglés-español
+- 🌐 Traducción técnico inglés-español, español-inglés
 
 ### Proyectos en progreso:
 1. Documentación de OBS Studio
